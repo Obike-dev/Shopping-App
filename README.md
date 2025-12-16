@@ -1,16 +1,6 @@
 # shopping_app
 
-A new Flutter project.
+A straightforward, minimalistic shopping app written in Flutter featuring an add to cart feature, a common color theme for the entire application etc.
 
-## Getting Started
+https://github.com/user-attachments/assets/f28f6ae3-3bd9-4710-a2d4-0da95ead0301
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
